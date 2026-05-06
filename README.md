@@ -1,9 +1,3 @@
-![Tool](https://img.shields.io/badge/Tool-PowerBI-yellow)
-![Skill](https://img.shields.io/badge/Skill-DataAnalysis-blue)
-![Domain](https://img.shields.io/badge/Domain-CustomerChurn-orange)
-![Focus](https://img.shields.io/badge/Focus-BusinessAnalytics-yellowgreen)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 # AI Resume-Based RAG System
 
 ## Live Demo
