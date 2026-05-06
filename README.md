@@ -1,5 +1,9 @@
 # AI Resume-Based RAG System
 
+## Live Demo
+
+Hugging Face Deployment Link: https://huggingface.co/spaces/bhanusaiprakashbandaru/AI_Resume_Based_RAG_System
+
 An AI-powered Resume Question Answering System built using Retrieval-Augmented Generation (RAG).  
 This application allows users to upload or use a resume PDF and ask questions in natural language.  
 The system retrieves relevant information from the resume and generates accurate responses using OpenAI LLMs.
